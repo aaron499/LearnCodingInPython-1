@@ -1,0 +1,3 @@
+run = "python Basic/hello.py"
+
+language = "python3"
