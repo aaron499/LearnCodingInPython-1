@@ -1,3 +1,3 @@
-run = "python Basic/hello.py"
+run = "python Basic/greeting.py"
 
 language = "python3"
